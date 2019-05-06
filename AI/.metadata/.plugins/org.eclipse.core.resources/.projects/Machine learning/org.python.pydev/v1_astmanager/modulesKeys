@@ -1,0 +1,24 @@
+MODULES_MANAGER_V2
+CVOXPT|/home/hieu/Documents/AI/Machine learning/CVOXPT.py
+DemoLinearRegression|/home/hieu/Documents/AI/Machine learning/DemoLinearRegression.py
+GD|/home/hieu/Documents/AI/Machine learning/GD.py
+GD2|/home/hieu/Documents/AI/Machine learning/GD2.py
+KMC_Mnist|/home/hieu/Documents/AI/Machine learning/KMC_Mnist.py
+KNN|/home/hieu/Documents/AI/Machine learning/KNN.py
+KNN2MNist|/home/hieu/Documents/AI/Machine learning/KNN2MNist.py
+KernelSVM|/home/hieu/Documents/AI/Machine learning/KernelSVM.py
+Kmean|/home/hieu/Documents/AI/Machine learning/Kmean.py
+LogicticGr|/home/hieu/Documents/AI/Machine learning/LogicticGr.py
+MLPvd1|/home/hieu/Documents/AI/Machine learning/MLPvd1.py
+NGD|/home/hieu/Documents/AI/Machine learning/NGD.py
+Overfit|/home/hieu/Documents/AI/Machine learning/Overfit.py
+PLA|/home/hieu/Documents/AI/Machine learning/PLA.py
+PythonBasic|/home/hieu/Documents/AI/Machine learning/PythonBasic.py
+display_network|/home/hieu/Documents/AI/Machine learning/display_network.py
+hellloOpencv|/home/hieu/Documents/AI/Machine learning/hellloOpencv.py
+helloTf|/home/hieu/Documents/AI/Machine learning/helloTf.py
+hellotensololow|/home/hieu/Documents/AI/Machine learning/hellotensololow.py
+nhandang2chuviettay|/home/hieu/Documents/AI/Machine learning/nhandang2chuviettay.py
+nhandiengioitinhbanglogistic|/home/hieu/Documents/AI/Machine learning/nhandiengioitinhbanglogistic.py
+softmax|/home/hieu/Documents/AI/Machine learning/softmax.py
+vidu|/home/hieu/Documents/AI/Machine learning/vidu.py

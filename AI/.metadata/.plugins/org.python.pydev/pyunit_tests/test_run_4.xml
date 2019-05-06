@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 4" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="/home/hieu/Documents/AI/Machine learning/TensorFlow-Examples/examples/1_Introduction/helloworld.py" status="error" test="helloworld" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "/home/hieu/Documents/eclipse/plugins/org.python.pydev.core_6.4.4.201807281807/pysrc/_pydev_runfiles/pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "/home/hieu/Documents/AI/Machine learning/TensorFlow-Examples/examples/1_Introduction/helloworld.py", line 10, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+ERROR: Module: helloworld could not be imported (file: /home/hieu/Documents/AI/Machine learning/TensorFlow-Examples/examples/1_Introduction/helloworld.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="Machine learning helloworld.py"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>
